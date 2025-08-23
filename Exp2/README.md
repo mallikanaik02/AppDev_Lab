@@ -9,4 +9,4 @@
 4. Run the app.
 
 **Expected Output:**
-![Hello World Screenshot](Screenshot 2025-07-26 223815.png)
+![Hello World Screenshot](output.png)
