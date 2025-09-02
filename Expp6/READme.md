@@ -36,3 +36,4 @@ When the program runs, the console displays:
 - Final array state
 
 **Example:**
+(Screenshot 2025-09-02 184950.png)
