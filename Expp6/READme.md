@@ -36,4 +36,4 @@ When the program runs, the console displays:
 - Final array state
 
 **Example:**
-(crud.png)
+![Crud](crud.png)
