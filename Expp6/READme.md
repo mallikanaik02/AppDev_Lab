@@ -1,4 +1,4 @@
-# Experiment 1: JS/TS CRUD on Array
+# Experiment 6: JS/TS CRUD on Array
 
 ## Aim
 To implement and demonstrate basic CRUD (Create, Read, Update, Delete) operations on JavaScript arrays.
