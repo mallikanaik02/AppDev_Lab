@@ -23,3 +23,23 @@ To set up Flutter development environment and create a calculator UI with basic 
 ![Calculator UI](cal.png)
 
 
+part b:
+## Aim
+Implement functional calculator logic with arithmetic operations and state management.
+
+## Changes Made
+1. **StatefulWidget**: Converted CalculatorUI to StatefulWidget for state management
+2. **Button Logic**: Added onButtonPressed() handler for all button interactions  
+3. **Calculator Functions**: Implemented calculate() method for +, -, ×, ÷ operations
+4. **State Updates**: Used setState() to update display in real-time
+5. **Clear Functions**: Added AC (All Clear) and C (Clear) buttons
+
+## Features Working
+- ✅ Basic arithmetic: 5 + 3 = 8
+- ✅ Decimal support: 3.5 × 2 = 7.0  
+- ✅ Clear functions: AC/C buttons
+- ✅ Real-time display updates
+- ✅ Error handling (division by zero)
+
+
+
