@@ -1,8 +1,10 @@
 Experiment 13: Tab-based Navigation with Drawer Layout
-Aim
+
+
+Aim:
 Implement tab-based navigation with drawer layout in React Native using Expo Router, combining bottom tabs with a sliding navigation drawer for enhanced app navigation.
 
-Features Implemented
+Features Implemented:
 ✅ Drawer Navigation: Side menu accessible from hamburger icon
 ✅ Tab Navigation: Bottom tabs for main app sections
 ✅ Nested Navigation: Tabs work within drawer structure
@@ -10,13 +12,14 @@ Features Implemented
 ✅ Theme Integration: Consistent styling with app theme
 ✅ Route Groups: Organized file structure with (dashboard) and (auth)
 
-Navigation Flow
+Navigation Flow:
 App Launch → Opens Dashboard with bottom tabs
-
 Hamburger Menu (☰) → Opens drawer from any screen
-
 Dashboard Option → Shows Profile/Books/Create tabs
-
 Authentication Option → Shows Login/Register screens
-
 Swipe Gesture → Alternative drawer access from left edge
+
+**Expected Output:**
+![nav bar](nv.png)
+![drawer bar](nv2.png)
+![drawer bar](nv3.png)
