@@ -28,4 +28,3 @@ Consistent spacing using 8px grid system
 
 Screenshots
 ![registration_form](r.png)
-![registration_form](r1.png)
