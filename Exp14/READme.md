@@ -69,7 +69,12 @@ This experiment extends previously developed applications (Calculator and To-Do 
 2. Install Flutter dependencies: `flutter pub get`
 3. Run application: `flutter run`
 4. Database will be automatically created on first launch
-5. 
+
+
+OUTPUT:
+!(14.png)
+!(14.11.png)
+!(14.22.png)
 
 
 
