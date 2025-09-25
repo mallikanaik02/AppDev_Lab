@@ -72,9 +72,9 @@ This experiment extends previously developed applications (Calculator and To-Do 
 
 
 OUTPUT:
-!(14.png)
-!(14a.png)
-!(14b.png)
+![output](14.png)
+![output](14a.png)
+![output](14b.png)
 
 
 
