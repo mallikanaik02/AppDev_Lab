@@ -37,6 +37,8 @@ A modern, real-time to-do list application built with React and Firebase Firesto
 - UPDATE: Toggle task completion status
 - DELETE: Remove tasks from cloud database
 - SEARCH: Filter tasks by title/description
+- OUTPUT:
+![output](14.png)
 
 
 
