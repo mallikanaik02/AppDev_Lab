@@ -1,4 +1,4 @@
-# Experiment 9: Data Storage and Databases with SQLite
+# Experiment 14: Data Storage and Databases with SQLite
 
 ## Aim
 Store and retrieve data locally using SQLite database. Extend existing applications with persistent data storage capabilities, replacing in-memory storage with database operations.
@@ -73,8 +73,8 @@ This experiment extends previously developed applications (Calculator and To-Do 
 
 OUTPUT:
 !(14.png)
-!(14.11.png)
-!(14.22.png)
+!(14a.png)
+!(14b.png)
 
 
 
