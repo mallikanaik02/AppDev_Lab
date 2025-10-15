@@ -31,9 +31,9 @@ A React Native Expo app that fetches Pokemon data from PokeAPI and displays it w
 - RESTful endpoints for Pokemon data
 
   ![pokemon](poke.png)
-  ![pokemon](pokeone.png)
-  ![pokemon](poketwo.png)
-  ![pokemon](pokethree.png)
+  ![pokemon](poke1.png)
+  ![pokemon](poke2.png)
+  ![pokemon](poke3.png)
 
 
   
