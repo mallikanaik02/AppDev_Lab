@@ -1,8 +1,30 @@
 
-# Todo App with Firebase - Experiment 10
+# Todo App and Calculator with Firebase - Experiment 10
 
-A modern, real-time to-do list application built with React and Firebase Firestore. Features cloud synchronization, offline support, and a beautiful Pinterest-style interface.
+A modern, real-time to-do list application built with React and Firebase Firestore. Features cloud synchronization, offline support, 
 
+### 1. Calculator 
+
+**Extended from Experiment 4**
+
+#### Features Implemented
+- **Calculation History Storage**: Every calculation (expression, result, timestamp) is automatically saved to SQLite database when equals button is pressed
+- **History View**: Dedicated history page displaying all past calculations in chronological order
+- **Persistent Storage**: Calculations remain saved even after app closure and restart
+- **Delete Functionality**: Individual calculations can be removed from history
+- **Real-time Updates**: History updates immediately when new calculations are performed
+
+
+#### Key Implementation
+- SQLite database helper class for CRUD operations
+- Automatic data persistence on calculation completion
+- ListView implementation for history display
+- Delete functionality with database synchronization
+- 
+- ### 2. Todo List 
+
+**Extended from Experiment 5*
+- 
 ## Features
 
 - Real-time Sync: Changes appear instantly across all devices
@@ -38,6 +60,9 @@ A modern, real-time to-do list application built with React and Firebase Firesto
 - DELETE: Remove tasks from cloud database
 - SEARCH: Filter tasks by title/description
 - OUTPUT:
+
+- ![output](cal.png)
+- ![output](14.11.png)
 ![output](14.png)
 
 
