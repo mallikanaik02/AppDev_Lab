@@ -28,10 +28,10 @@ To build a mobile app using **React Native** and **Firebase Authentication** tha
 ## OUTPUT:
   ![auth](auth.png)
   ![auth](auth1.png)
-    ![auth](auth 2.png)
+    ![auth](auth2.png)
       ![auth](auth3.png)
         ![auth](auth4.png)
-          ![auth](auth 5.png)
+          ![auth](auth5.png)
 
 
 
