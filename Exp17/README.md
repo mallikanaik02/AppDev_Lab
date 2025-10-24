@@ -26,12 +26,12 @@ To build a mobile app using **React Native** and **Firebase Authentication** tha
 
 
 ## OUTPUT:
-  ![pokemon](auth.png)
-  ![pokemon](auth1.png)
-    ![pokemon](auth2.png)
-      ![pokemon](auth3.png)
-        ![pokemon](auth4.png)
-          ![pokemon](auth5.png)
+  ![auth](auth.png)
+  ![auth](auth1.png)
+    ![auth](auth 2.png)
+      ![auth](auth3.png)
+        ![auth](auth4.png)
+          ![auth](auth 5.png)
 
 
 
