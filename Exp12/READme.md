@@ -1,7 +1,7 @@
 
 Experiment 12: Registration Form UI/UX Design
 Aim
-Design a comprehensive registration form using Figma with multiple field types and modern UI/UX principles.
+Create a registration form with multiple fields
 
 Features Implemented
 ✅ Text Input Fields: Name, email, password with proper labeling
