@@ -16,12 +16,12 @@
 6. Run app
 
   Output:
-    ![auth](f1.png)
-      ![auth](f2.png)
-      ![auth](f3.png)
-      ![auth](f4.png)
-      ![auth](f5.png)
-      ![auth](f6.png)
+    ![auth](f1.jpeg)
+      ![auth](f2.jpeg)
+      ![auth](f3.jpeg)
+      ![auth](f4.jpeg)
+      ![auth](f5.jpeg)
+      ![auth](f6.jpeg)
   
 
 
