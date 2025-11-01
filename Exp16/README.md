@@ -1,6 +1,6 @@
 # Experiment 16
 
-A React Native Expo app that fetches Pokemon data from PokeAPI and displays it with proper loading, error, and empty states.
+Fetch data from a public REST API and display results in the app.
 
 ## Features
 - Fetch data from public REST API (PokeAPI)
