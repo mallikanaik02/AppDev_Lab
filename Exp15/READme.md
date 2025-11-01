@@ -1,7 +1,7 @@
 
 # Todo App and Calculator with Firebase - Experiment 10
 
-A modern, real-time to-do list application built with React and Firebase Firestore. Features cloud synchronization, offline support, 
+Aim:.Perform CRUD operations with Firestore and store and retrieve data for calculator app and Todo list app.
 
 ### 1. Calculator 
 
