@@ -1,7 +1,7 @@
 # Experiment 17 – Firebase Authentication in React Native
 
 ## Aim
-To build a mobile app using **React Native** and **Firebase Authentication** that allows users to **register (sign up)** and **log in** using email and password with session management.
+Implement user authentication using Firebase Auth with React Native.
 
 ## Features Implemented
 - Firebase Email/Password Authentication
