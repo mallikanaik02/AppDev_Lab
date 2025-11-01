@@ -1,7 +1,7 @@
 # Experiment 14: Data Storage and Databases with SQLite
 
 ## Aim
-Store and retrieve data locally using SQLite database. Extend existing applications with persistent data storage capabilities, replacing in-memory storage with database operations.
+Store and retrieve data locally using SQLite for calculator app and Todo list app.
 
 ## Overview
 This experiment extends previously developed applications (Calculator and To-Do List) by implementing SQLite database functionality for permanent data storage. Until now, all applications worked only in memory - once the app closes, data is lost. Real applications need to store data permanently using databases.
