@@ -3,7 +3,7 @@
 ## Tech Used
 React Native | Firebase | REST API | Jest Testing
 
-## Short Description
+##  Description
 Melodify is a feature-rich music discovery app built with React Native. It integrates Firebase authentication and Firestore for secure user management and data persistence, and leverages the Spotify API and other REST APIs for dynamic music recommendations. The app supports multiple user roles—Guest, User, VIP, and Admin—with role-based access to premium content and administrative features. Key features include artist and genre-based personalized recommendations, recently discovered songs tracking, VIP upsell workflows, and an admin panel for user management and feature control. Jest testing ensures reliability and smooth operation across app flows.
 
 ## Features
