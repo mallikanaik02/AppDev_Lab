@@ -35,4 +35,5 @@
 ## Jest Test Output:
 ![ss](test_pass.png)
 
+Attached is a demo video of the app (demo_app.mp4 in Mini_project/Output)
 
