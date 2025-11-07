@@ -1,7 +1,7 @@
-Welcome Screen:
+##Welcome Screen:
 ![ss](welcome.png)
 
-For Users:
+##For Users:
 ![ss](user.png)
 ![ss](user2.png)
 ![ss](user3.png)
@@ -16,23 +16,23 @@ For Users:
 ![ss](user12.png)
 ![ss](user13.png)
 
-For Guests:
+##For Guests:
 ![ss](guest.png)
 ![ss](guest2.png)
 ![ss](guest3.png)
 ![ss](guest4.png)
 ![ss](guest5.png)
 
-For VIP's:
+##For VIP's:
 ![ss](vip.png)
 ![ss](vip2.png)
 
-For Admins:
+##For Admins:
 ![ss](admin.png)
 ![ss](admin2.png)
 ![ss](admin3.png)
 
-Jest Test Output:
+##Jest Test Output:
 ![ss](test_pass.png)
 
 
